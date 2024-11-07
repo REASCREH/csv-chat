@@ -1,6 +1,6 @@
 streamlit==1.39.0
-langchain-google-genai==0.6.10
-langchain-experimental==0.3.3  # Adjust if a specific version is needed
+langchain-google-genai==2.0.4
+langchain-experimental==0.3.3
 pandas==2.2.3
 fpdf==1.7.2
 SQLAlchemy==2.0.35
